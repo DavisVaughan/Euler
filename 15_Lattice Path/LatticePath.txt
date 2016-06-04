@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Lattice_path
+
+NE Lattice Path shortcut using combinations. Start at (0,0) go to spot (n,k)
+the number of ways to get there only going right and up are (n+k)C(k)
+
+This relates exactly to our problem but we go down and right. We end at the bottom right corner which is (20,20) so the answer it (20+20)C(20)
